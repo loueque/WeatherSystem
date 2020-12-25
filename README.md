@@ -42,6 +42,9 @@ local WeatherClasses = {
 
 ### Functions
 
-|Function_Name| |Returns|
+|Function_Name|
 |---|
-|Weather.Start()| |**Begins the weather.**|
+|Weather.Start()|
+|Returns|
+|---|
+|**N/A**|

@@ -7,6 +7,14 @@ Use this in any game that experiments with a day-cycle like roleplays, simulator
 0.1.0
 Created module, instances.
 
+## Why making this?
+
+Well, I found the motivation and work to make a Weather Module since there aren't many weather systems or plugins out there on Roblox that can make such a system as it is, so, I wanted to create this for all developers and users to explore and experiment with it.
+
+Using this inside of a game such as Westover Islands, High-School games, and a game like Jailbreak could be helpful and resourceful to have rotated weather around a game such as a snowy weather, cloudy during the day and night, or more.
+
+Yes, you can mishape these. :)
+
 ## API
 
 While working with Weather_Systems, there are many classes that are chosen, inserted and deleted whenever cycled throughout a day, or used in seasonal-days like Christmas.

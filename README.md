@@ -42,9 +42,6 @@ local WeatherClasses = {
 
 ### Functions
 
-|Function_Name|
-|---|
-|Weather.Start()|
-|Returns|
-|---|
-|**N/A**|
+|Function(s)|Returns|Description|
+|-|-|-|
+|Weather.Start()|**N/A**|Starts + dialogs a new weather system.|

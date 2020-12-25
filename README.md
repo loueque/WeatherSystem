@@ -36,11 +36,12 @@ local WeatherClasses = {
 			["ShadowSoftness"] = 0;
 		}
 	}
-	
+}
+
 ```  
 
 ### Functions
 
-|Function_Name|
-|---|
-|Weather.Start()|
+|Function_Name||Returns|
+|---||---|
+|Weather.Start()||**Begins the weather.**|

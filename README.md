@@ -16,6 +16,7 @@ You can configure, change, or even create your own systems inside of the module 
 Something like this is used in chosing a weather:
 
 \`\`\`lua
+
 local WeatherClasses = {
 	
 	["Sunny"] = {
@@ -35,6 +36,7 @@ local WeatherClasses = {
 			["ShadowSoftness"] = 0;
 		}
 	}
+	
 \`\`\`  
 
 ### Functions

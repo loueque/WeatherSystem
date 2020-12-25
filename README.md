@@ -50,24 +50,31 @@ local WeatherClasses = {
 ### Functions
 
 |Function|Returns|Description|
+|-|-|-|
 |Weather:OnPrint()|**N/A**|Prints a string or text found in a weather table.|
 
 |Function|Returns|Description|
+|-|-|-|
 |Weather:GetMeterFromWeathers()|**N/A**|Finds a event or bindable function.|
 
 ### Events
 
 |Function|Returns|Description|
+|-|-|-|
 |Weather.New()|**N/A**|Begins a new weather + dialogs a new weather system.|
 
 |Function|Returns|Description|
+|-|-|-|
 |Weather.Start()|**N/A**|Starts the weather, any type of weather.|
 
 |Function|Returns|Description|
+|-|-|-|
 |Weather.End()|**N/A**|Ends the weather, starts a new process with Weather.Start() / Weather.New()|
 
 |Function|Returns|Description|
+|-|-|-|
 |Weather.Cycle()|**N/A**|With Weather.Start(), it'll cycle from day-to-night.|
 
 |Function|Returns|Description|
+|-|-|-|
 |Weather.ChooseRandom()|**N/A**|Chooses a random weather, like Sunny or Snowy.|

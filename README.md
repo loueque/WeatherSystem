@@ -35,7 +35,7 @@ local WeatherClasses = {
 			["ShadowSoftness"] = 0;
 		}
 	}
-\`\`\` 
+\`\`\`  
 
 ### Functions
 
